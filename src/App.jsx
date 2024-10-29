@@ -7,7 +7,6 @@ import SearchFilter from './components/SearchFilter';
 import List from './components/List';
 import WeatherDetail from './components/WeatherDetail';
 
-
 const App = () => {
     const [weatherData, setWeatherData] = useState([]);
     const [filteredData, setFilteredData] = useState([]);
@@ -95,7 +94,7 @@ const App = () => {
                 </div>
                 <h3>Already Given Locations / Search</h3>
                 <List items={filteredData} />
-                
+
                 <Routes>
                     <Route path="/weather/:city" element={<WeatherDetail />} />
                 </Routes>
