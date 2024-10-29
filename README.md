@@ -4,7 +4,7 @@ Submitted by: **Muhammad Amir**
 
 This web app: **WEB detail**
 
-Time spent: **7** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Project6](https://github.com/user-attachments/assets/60c0ea48-0f23-4dda-814c-b29a8af5534f)
+![Project6](https://github.com/user-attachments/assets/beea9c11-c18d-4923-a101-c1db692970b7)
 
 GIF created with ...  
 
